@@ -1,0 +1,7 @@
+name: hs-deck-clusters
+dependencies:
+ - pandas
+ - numpy
+ - scikit-learn
+ - scipy
+ - seaborn

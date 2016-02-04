@@ -1,0 +1,6 @@
+-e git+https://github.com/jleclanche/fireplace.git#egg=fireplace
+-e git+https://github.com/HearthSim/python-hearthstone.git#egg=hearthstone
+lxml
+pandas
+pytest
+requests
